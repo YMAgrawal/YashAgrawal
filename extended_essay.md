@@ -21,6 +21,9 @@
 ### https://www.nature.com/articles/0801292.pdf
 ### The effect of thyroid hormones on protein metabolism is characterized by a profound stimulatory effect on the synthesis of numerous cytosolic and mitochondrial proteins as well as of secretory proteins such as albumin and hormones.
 ## **LIPID**
+   :PROPERTIES:
+   :CUSTOM_ID: 5f2e55cf-9566-4174-9287-c41e08e7e326
+   :END:
 ### https://www.sciencedirect.com/science/article/pii/0016648086900079
 #### T4-stimulated lipid mobilization was indicated by decreased total lipids, primarily as triacylglycerols, and increased lipolytic enzyme (triacylglycerol lipase) activity in the liver and dark muscle.
 ##### This can be something. I can take liver, maybe get it from somewhere, and then I can test on it? Why should this not work?
