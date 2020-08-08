@@ -13,7 +13,9 @@
 #### DONE Genus + Species?
 ##### Potential target: _Laminaria Digitata_ (kombu kelp) found on [Lazada](https://www.lazada.sg/products/kombu-powder-i356266853-s831106321.html?exlaz=d_1:mm_150050845_51350205_2010350205::12:1025267241!54483208270!!!pla-297963845945!c!297963845945!831106321!138962662&gclid=CjwKCAjwsan5BRAOEiwALzomX0Cawyb0jV1lVOPRKdftoxPIUlBQB3d7HDq2ehAkxUtbyJCOzAu7YhoCNncQAvD_BwE)
 ## **Investigating the effect of thyroxine** -> Add 50ml of thyroxine solution
-### Thyroxine obtained from### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)## Note the time at the start of the hydrolysis reaction.
+### Thyroxine obtained from
+### Make a 150mcg/L solution of thyroxine solution (based on image in research paper)
+### Note the time at the start of the hydrolysis reaction.
 ## Let it be for 1hour
 ## **_What are we measuring additionally?_**
 ### (1) Enthalpy - Using a temperature probe every 4 minutes. The reason is that that will help us get a wide range of value (15 values) and can aid in noticing minor fluctuations in the temperature.
@@ -22,7 +24,7 @@
 #### Why does thyroxine effect pH?
 ### For both things, a polynomial regression model can be plotted.
 ### Discussion -> The potential effects of pH or temperature change
-## Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colourimetric method.
+### Withdraw 5 ml of the solution and measure the amino acid concentration of the solution as a function of time by using the ninhydrin colourimetric method.
 ### 0.35g of Ninhydrin + 100ml ethanol in test-tube + parafilm to prevent evaporation of alcohol
 ### **Chemical process**
 ##### 1. alpha-amino acid + ninhydrin -> reduced ninhydrin + alpha-amino acid + H2O
@@ -33,7 +35,7 @@
 ### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
 ## Repeat the process for 15%, 25%, 35%, 50% seaweed solution
 ## Dependent variable: Rate of digestion and absorbance (using ninhydrin colorimetry)
-## **Banter**
+## **Control Variable**
 ### (1) No activator present
 #### Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
 #### As the test was carried out _in-vitro_ no additional activators or inhibitors were added
@@ -49,22 +51,21 @@
 ### (5) Temperature at which the reaction is carried out
 #### Enzymes are temperature sensitive, which enhances its performance
 #### The reaction is conducted in a incubator at a temperature of 37ºC
-###
-### Apparatus and Chemicals
-##### 2 beakers, 100 ml
-##### Beaker, 400 ml
-##### Graduated cylinder
-##### Pipets, 1ml, 10ml
-##### Temperature bath (or heat source -- Bunsen burner or hot plate)
-##### Thermometer
-##### Stirring rod
-##### Funnel and filter paper (or centrifuge)
-##### Test tubes
-##### Balance
-##### Blender
-##### Spectrophotometer
-##### Protein source (cottage cheese or curds from Experiment No. 1)
-##### Protease
-##### Ninhydrin solution
-### **DISCUSSION**
-#### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
+## Apparatus and Chemicals
+#### 2 beakers, 100 ml
+#### Beaker, 400 ml
+#### Graduated cylinder
+#### Pipets, 1ml, 10ml
+#### Temperature bath (or heat source -- Bunsen burner or hot plate)
+#### Thermometer
+#### Stirring rod
+#### Funnel and filter paper (or centrifuge)
+#### Test tubes
+#### Balance
+#### Blender
+#### Spectrophotometer
+#### Protein source (cottage cheese or curds from Experiment No. 1)
+#### Protease
+#### Ninhydrin solution
+## **DISCUSSION**
+### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
