@@ -1,5 +1,6 @@
-## This week has been one of the most interesting week for me in terms of technology, and one of the worst, if not the worst days for academics.
 ## This weekly review is a place where I want to purely, lay down my plans for business, life and what has already happened in the past
+## This week has been one of the most interesting week for me in terms of technology, and one of the worst, if not the worst days for academics. On the contrary, I started reading and then lost interest in [[Book - Rich Dad Poor Dad]], but I did learn quite a deal about [[morbidy]] which I found in the article [[ARTICLE - Loneliness, social isolation, cardiovascular disease and mortality]] which was quite an interesting read.
+## For one thing, I was
 ## Business
 ### For CrashBoards, I have some great plans. There are multiple ventures that I want to lead into my brain child.
 ### _makeSHIFT_™
@@ -14,3 +15,5 @@
 ## Love
 ## Academics
 ## Relationships
+##
+## A couple of things, from my week. I had been watching some old videos of [[TOK]], the practice pitch, and did recognise that I make an "um" sound before every sentence, which is kind of bad.
