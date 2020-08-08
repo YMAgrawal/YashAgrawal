@@ -32,24 +32,8 @@
 ### **Wavelength**:​ 570nm
 ### Physical process​: 1ml of ninhydrin solution in 5ml solution of amino acid
 ## Repeat the process for 15%, 25%, 35%, 50% seaweed solution
-## Apparatus and Chemicals
-### 2 beakers, 100 ml
-### Beaker, 400 ml
-### Graduated cylinder
-### Pipets, 1ml, 10ml
-### Temperature bath (or heat source -- Bunsen burner or hot plate)
-### Thermometer
-### Stirring rod
-### Funnel and filter paper (or centrifuge)
-### Test tubes
-### Balance
-### Blender
-### Spectrophotometer
-### Protein source (cottage cheese or curds from Experiment No. 1)
-### Protease
-### Ninhydrin solution
 ## Dependent variable: Rate of digestion and absorbance (using ninhydrin colorimetry)
-## **Control Variables**
+## **Variables**
 ### (1) No activator present
 #### Activators are molecules that bind to enzymes and increase their activity. If activators were present, the effect of iodine cannot be tested in isolation
 #### As the test was carried out _in-vitro_ no additional activators or inhibitors were added
@@ -63,8 +47,24 @@
 #### Enzymes are pH sensitive, hence the pH needs to be maintained low.
 #### 1ml 1 Molar HCl was added to the solution to maintain the pH at 1
 ### (5) Temperature at which the reaction is carried out
+###
 #### Enzymes are temperature sensitive, which enhances its performance
 #### The reaction is conducted in a incubator at a temperature of 37ºC
+## Apparatus and Chemicals
+#### 2 beakers, 100 ml
+#### Beaker, 400 ml
+#### Graduated cylinder
+#### Pipets, 1ml, 10ml
+#### Temperature bath (or heat source -- Bunsen burner or hot plate)
+#### Thermometer
+#### Stirring rod
+#### Funnel and filter paper (or centrifuge)
+#### Test tubes
+#### Balance
+#### Blender
+#### Spectrophotometer
+#### Protein source (cottage cheese or curds from Experiment No. 1)
+#### Protease
+#### Ninhydrin solution
 ## **DISCUSSION**
 ### Homoeopathic doctors ask for the supplementary intake of seaweed to supplement patients with iodine deficiency with iodine. I want to test the effect seaweed has on thyroxine in itself.
-##
