@@ -1,6 +1,2 @@
----
-title: 🌲 Trees of Knowledge
-tags:
----
-
-## 
+## [[Medicine]]
+### [[multimorbidity]]
