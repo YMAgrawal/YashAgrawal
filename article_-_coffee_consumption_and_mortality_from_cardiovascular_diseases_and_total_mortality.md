@@ -4,4 +4,3 @@ tags:
 ---
 
 ## [[ischemic heart disease (IHD)]]
-## 
